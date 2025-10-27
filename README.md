@@ -21,6 +21,7 @@ Building on Project 1, this project presents 3 interactive Tableau dashboards th
 
 
 **PDF Report:** [Dashboards Report](./Data_%20Visualization_PROJECT_2_Basnet.pdf)  
+
 **Tableau Public Links:**  
 - [Dashboard 1: Global Overview](https://public.tableau.com/views/Dashboard1_17532213817040/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - [Dashboard 2: COVID-19 Severity & Spread: U.S., India, Brazil](https://public.tableau.com/views/Dashboard2_17532814103050/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
